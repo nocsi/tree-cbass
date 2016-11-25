@@ -1,0 +1,1 @@
+python taintDriver.py -p -t %1
